@@ -3,11 +3,11 @@
 **Nombre de la escuela**: <span style="color:purple;">Universidad Tecnológica de la Sierra Hidalguense</span>  
 **Nombre de la materia**: <span style="color:orange;">Aplicaciones Web Orientada a Servicios</span>  
 
-**Nombre del alumno**: <span style="color:red;">Efren Yañez Moreno</span>  
+**Nombre del alumno**: <span style="color:red;">Irving Giovanny Amador Hernandez</span>  
 **Grado y Grupo**: <span style="color:brown;">4 - G1</span>  
 **Carrera**: <span style="color:teal;">T.S.U. Área en Desarrollo de Software Multiplataforma</span>  
 **Cuatrimestre**: <span style="color:navy;">Septiembre - Diciembre 2024</span>  
-**Matrícula**: <span style="color:darkgreen;">20230340</span>
+**Matrícula**: <span style="color:darkgreen;">20230341</span>
 
 ---
 # Manual Técnico: Ejercicios de Lógica en JavaScript
@@ -16,7 +16,7 @@
 
 Este proyecto consiste en varios ejercicios diseñados para demostrar lógica mediante JavaScript. Fue creado como parte del curso de **Aplicaciones Web Orientadas a Servicios** en la **Universidad Tecnológica de la Sierra Hidalguense**.
 
-- **Estudiantes**: Efren Yañez Moreno
+- **Estudiantes**: Irving Giovanny Amador Hernandez
 - **Grado y Grupo**: 4 - G1
 - **Asignatura**: Aplicaciones Web Orientadas a Servicios
 
